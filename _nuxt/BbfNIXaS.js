@@ -1,0 +1,1 @@
+import{_ as o,$ as a}from"./DgGCtTaB.js";import{u as r}from"./dwHU-Tv0.js";import"./y1qtJ0Us.js";const s=o(e=>{const t=r();if(t.isLoggedIn&&e.name==="auth")return a("/");if(!t.isLoggedIn&&e.name!=="auth")return a("/auth")});export{s as default};
